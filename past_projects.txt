@@ -61,3 +61,7 @@ Azure
 AWS
 Docker
 Kubernetes
+RealPlayer
+SpaceX
+Juicero
+Chegg
