@@ -54,3 +54,10 @@ Telegram
 Skype
 Dropbox
 Grammarly
+Heroku
+Google Cloud Platform
+Alibaba Cloud
+Azure
+AWS
+Docker
+Kubernetes
